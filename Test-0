@@ -7,3 +7,5 @@ Let's rectify the issue and try again.
 Still no message sent
 
 Next I tried '/github subscribe owner/repo-name commits:* pulls reviews comments' lets see if it works now
+
+It worked!!!
