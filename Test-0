@@ -1,1 +1,5 @@
 This is a test file, to test slack integration.
+
+The app was added to slack but no channel was created
+and no messages were sent.
+Let's rectify the issue and try again.
